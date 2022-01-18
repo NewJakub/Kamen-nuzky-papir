@@ -1,1 +1,1 @@
-# Kamen-nuzky-papir
+# Program na kámen, nůžky, papír.
